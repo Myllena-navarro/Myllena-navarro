@@ -6,7 +6,7 @@
 
 ✨ Pretendo seguir carreira na área de Dados🎲🎲🎲!
 
-Obs: Esse perfil do GitHub é voltado para meus trabalhos acadêmicos, o que é voltado para o profissional se encontra no GitHub Profissional.
+Obs: Esse perfil do GitHub é voltado para meus trabalhos acadêmicos, o profissional se encontra no GitHub Profissional.
 
 ### Projetos
 [![Git_Acadêmico](https://img.shields.io/badge/GitHub_Acadêmico-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myllena-navarro)
